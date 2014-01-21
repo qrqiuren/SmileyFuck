@@ -1,3 +1,12 @@
+# Lex & Yacc
+lex.yy.c
+y.output
+y.tab.c
+y.tab.h
+y.debug
+y.tmp.*
+y.acts.*
+
 # Object files
 *.o
 *.ko
