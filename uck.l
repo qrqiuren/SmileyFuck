@@ -23,8 +23,8 @@ yywrap(void)
 "="     return EQUAL;
 "_"     return USC;
 "^"     return CARET;
-">"     return LAQ;
-"<"     return RAQ;
+"<"     return LAQ;
+">"     return RAQ;
 "~"     return TILDE;
 [Yy]    return YLETTER;
 "\n"    return CR;
